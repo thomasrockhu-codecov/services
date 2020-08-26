@@ -1,4 +1,5 @@
 Gitter.im Services [![Build Status](https://travis-ci.org/gitterHQ/services.svg?branch=1.0.0)](https://travis-ci.org/gitterHQ/services) [![Gitter chat](https://badges.gitter.im/gitterHQ/services.png)](https://gitter.im/gitterHQ/services)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fservices.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fservices?ref=badge_shield)
 ==================
 The things that power your [Gitter](https://gitter.im) activity feed.
 
@@ -188,3 +189,7 @@ Started by [malditogeek](https://github.com/malditogeek), shuffled around by [tr
 License
 -------
 MIT
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fservices.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fservices?ref=badge_large)
